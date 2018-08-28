@@ -26,6 +26,7 @@
 		<setting id="host.streamango" type="bool" label="Streamango" default="true" />
         <setting id="host.openload" type="bool" label="Openload" default="true" />
         <setting id="host.mystream" type="bool" label="Mystream" default="true" />	
+        <setting id="host.tiwikiwi" type="bool" label="Tiwi.Kiwi" default="true" />  
     </category>
     <category label="Playback">
         <setting type="lsep" label="Autoplay" />
